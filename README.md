@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Bullet Test
+Bullet Test (Project C21) for WhiteHat Jr.
